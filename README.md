@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>¡Hola! Soy Cecilia Giunta 👋</h1>
 
-<!--
-**cecigiunta/cecigiunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 🙋‍♀️ Acerca de mi </h3>
 
-Here are some ideas to get you started:
+- 🎓 Soy aprendiz de Desarrollo Web FullStack, y Técnica en Informática
+- 💼 Me encuentro en búsqueda de mi primer experiencia laboral en el mundo IT.
+- 💬 Sé Inglés (C1); y Portugués y Francés básicos.
+- 🌎 También soy Técnica en Turismo 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🔗 Links 
+- Instagram: https://www.instagram.com/ceci.giunta
+- Linkedin: www.linkedin.com/in/cecilia-giunta-7a8275144/
+
