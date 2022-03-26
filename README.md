@@ -10,7 +10,7 @@
 
 
 
-### 🔗 Links 
-- Instagram: https://www.instagram.com/ceci.giunta
+### 🔗 Contacto 
+- Mail: ceciliagiunta57@gmail.com
 - Linkedin: www.linkedin.com/in/cecilia-giunta-7a8275144/
 
