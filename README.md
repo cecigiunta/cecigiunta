@@ -3,9 +3,9 @@
 <h3> 🙋‍♀️ Acerca de mi </h3>
 
 - 🎓 Soy aprendiz de Desarrollo Web FullStack, y Técnica en Informática
-- 💼 Me encuentro en búsqueda de mi primer experiencia en el mundo IT, tanto laboral como Trainee o pasantía para poder seguir aprendiendo cosas nuevas.
+- 💼 Me encuentro en búsqueda de mi primer experiencia en el mundo IT para poder seguir aprendiendo cosas nuevas y poner en práctica aquellas que aprendí.
 - 💬 Sé Inglés (C1); y Portugués y Francés básicos.
-- Me encuentro aprendiendo de a poco a usar GitHub :)
+- Me encuentro aprendiendo también de a poco a usar GitHub :)
 - 🌎 También soy Técnica en Turismo 
 
 
