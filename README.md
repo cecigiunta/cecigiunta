@@ -2,10 +2,9 @@
 
 <h3> 🙋‍♀️ Acerca de mi </h3>
 
-- 🎓 Soy aprendiz de Desarrollo Web FullStack, y Técnica en Informática
+- 🎓 Soy Desarrolladora Web FullStack, y Técnica en Informática
 - 💼 Me encuentro en búsqueda de mi primer experiencia en el mundo IT para poder seguir aprendiendo cosas nuevas y poner en práctica aquellas que aprendí.
-- 💬 Sé Inglés (C1); y Portugués y Francés básicos.
-- Me encuentro aprendiendo también de a poco a usar GitHub :)
+- 💬 Sé Inglés (C1); y Portugués básico.
 - 🌎 También soy Técnica en Turismo 
 
 
