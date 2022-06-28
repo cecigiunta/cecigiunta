@@ -1,12 +1,8 @@
-<h1>¡Hola! Soy Cecilia Giunta 👋</h1>
-
 <h3> 🙋‍♀️ Acerca de mi </h3>
 
 - 🎓 Soy Desarrolladora Web FullStack, y Técnica en Informática
 - 💼 Me encuentro en búsqueda de mi primer experiencia en el mundo IT para poder seguir aprendiendo cosas nuevas y poner en práctica aquellas que aprendí.
 - 💬 Sé Inglés (C1); y Portugués básico.
-- 🌎 También soy Técnica en Turismo 
-
 
 
 ### 🔗 Contacto 
