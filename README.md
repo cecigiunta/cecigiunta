@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center"> Hi!👋🏼 Welcome to my GitHub 🌸 </h1>
 </div>
-    I'm Cecilia Giunta, thank you for visiting my proffile 😄
+    I'm Cecilia Giunta, thank you for visiting my proffile 😊
 <br>
 <br>
    <ul>
