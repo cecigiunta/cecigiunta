@@ -48,8 +48,8 @@
 <div align="center">
     <h2> ⚡ Stats </h2>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=cecigiunta&theme=radical">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecigiunta&layout=compact&theme=dracula">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=cecigiunta&theme=radical">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecigiunta&layout=compact&theme=dracula">
 </div>
 
 <br>
