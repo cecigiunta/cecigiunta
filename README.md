@@ -1,7 +1,13 @@
 <div align="center">
     <h1 align="center"> Hi!👋🏼 Welcome to my GitHub 🌸 </h1>
-    I'm Cecilia Giunta, thank you for visiting my proffile 😄
 </div>
+    I'm Cecilia Giunta, thank you for visiting my proffile 😄
+<br>
+<br>
+   <ul>
+    <li> 👨🏽‍💻 Frontend and Fullstack Developer </li>
+    <li> 📚 I'm currently learning about C#, .Net and SQL </li>
+    <li> 😎 I’m looking to collaborate on Web Development Projects </li>
 
 
 <br>
@@ -37,14 +43,6 @@
 </div>
 
 <br>
-<br>
-
-
-<div align="center">
-    <h3> 📚 I am currently learning </h3>
-        C# , .Net , SQL
-</div>
-
 <br>
 
 <div align="center">
