@@ -46,7 +46,17 @@
 <br>
 
 <div align="center">
-    <h3> 📬 You can contact me on: </h3>
+    <h2> ⚡ Stats </h2>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cecigiunta&theme=radical)
+</div>
+
+<br>
+<br>
+
+
+<div align="center">
+    <h2> 📬 Contact me on: </h2>
        <p allign="center" dir="auto">
 &nbsp;&nbsp;
  <a target="_blank" href="https://www.linkedin.com/in/cecilia-giunta-7a8275144/" rel="nofollow">
