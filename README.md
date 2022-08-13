@@ -6,7 +6,7 @@
 <br>
    <ul>
     <li> 👨🏽‍💻 Frontend and Fullstack Developer </li>
-    <li> 📚 I'm currently learning about C#, .Net, SQL, Vue JS and Sass </li>
+    <li> 📚 I'm currently learning about C#, .Net, SQL and Kotlin </li>
     <li> 😎 I’m looking to collaborate on Web Development Projects </li>
 
 
