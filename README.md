@@ -7,6 +7,7 @@
    <ul>
     <li> 👨🏽‍💻 Frontend and Fullstack Developer </li>
     <li> 📚 I'm currently learning about C#, .Net, SQL and Kotlin </li>
+    <li> 📚 Currently working as a Help Desk in Accenture </li>
     <li> 😎 I’m looking to collaborate on Web Development Projects </li>
 
 
